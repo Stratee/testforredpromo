@@ -1,0 +1,37 @@
+body{
+    width: 94%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.row{
+    justify-content: space-between;
+}
+
+.card{
+    width: 32%;
+    height: 170px;
+}
+
+a{
+    text-decoration: none;
+    color: #212529;
+}
+
+a:hover{
+    color: #212529;
+}
+
+p{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.similar, .similar-theme{
+    color: #0a58ca;
+}
+
+.theme{
+    margin-top: 10px;
+}
